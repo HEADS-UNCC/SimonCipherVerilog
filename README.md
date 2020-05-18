@@ -1,5 +1,5 @@
 # SimonCipherVerilog
-** Disclaimer: This code should not be used in production and has been written for educational purposes only **
+__Disclaimer: This code should not be used in production and has been written for educational purposes only__
 
 This is a Verilog implementation of the Simon cipher. It follows the specifications described in:
 [https://eprint.iacr.org/2013/404.pdf](https://eprint.iacr.org/2013/404.pdf)
